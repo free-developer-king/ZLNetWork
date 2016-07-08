@@ -2,6 +2,10 @@
 a simple network framework that contains volley,okhttp,nohttp.
 
 基于整合了volley,okhttp,nohttp的一个网络框架。
+简单封装了一下volley,okhttp,nohttp
+1.你可以在volley,okhttp,nohttp之间无缝切换
+2.可以把对象解析，集合解析成你要的数据.
+
 
 #发起一个请求 demo
 
